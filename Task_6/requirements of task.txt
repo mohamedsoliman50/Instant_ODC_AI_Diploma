@@ -1,0 +1,13 @@
+1- Create Text File 
+Steps:
+1-Read Text File On Python
+
+2-Create 4 List :
+
+1-List Name
+2-List Phone
+3-List Birthday
+4-List Salary
+
+3- append each data into its suitable list 
+4- print result in new file 

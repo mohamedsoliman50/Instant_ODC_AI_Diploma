@@ -1,0 +1,18 @@
+employees names :
+['Mohamed Ahmed ', 'Ahmed Ali ', 'Fatma Omar ', 'Khaled Samir ', 'Youssef Mahmoud ', 'Aya Ahmed ', 'Mona Tarek ', 'Amr Mohamed ', 'Laila Ali ', 'Omar Hassan ', 'Noha Yassin ', 'Amina Ibrahim ', 'Ali Samir ', 'Sarah Ahmed ', 'Tarek Hassan ', 'Hassan Ali ', 'Samar Mahmoud ', 'Eman Ali ', 'Amal Omar ', 'Youssef Samir ', 'Dalia Ahmed ', 'Hany Tarek ', 'Asmaa Hassan ', 'Khaled Ali ', 'Nada Yassin ', 'Sara Mahmoud ', 'Ramy Omar ', 'Hassan Samir ', 'Mariam Ahmed ', 'Omar Ali ', 'Mai Tarek ', 'Hanaa Hassan ', 'Ali Yassin ', 'Nour Mahmoud ', 'Yara Omar ']
+
+employee phones :
+[' 0102030405 ', ' 0115030406 ', ' 0107030408 ', ' 0108030409 ', ' 0119030410 ', ' 0130030411 ', ' 0140030412 ', ' 0150030413 ', ' 0160030414 ', ' 0170030415 ', ' 0180030416 ', ' 0190030417 ', ' 0200030418 ', ' 0210030419 ', ' 0220030420 ', ' 0230030421 ', ' 0240030422 ', ' 0250030423 ', ' 0260030424 ', ' 0270030425 ', ' 0280030426 ', ' 0290030427 ', ' 0300030428 ', ' 0310030429 ', ' 0320030430 ', ' 0330030431 ', ' 0340030432 ', ' 0350030433 ', ' 0360030434 ', ' 0370030435 ', ' 0380030436 ', ' 0390030437 ', ' 0400030438 ', ' 0410030439 ', ' 0420030440 ']
+
+employee birthday :
+[' 10/10/1990 ', ' 8/9/1984 ', ' 2/3/1995 ', ' 12/5/1987 ', ' 4/2/1994 ', ' 20/11/1998 ', ' 15/1/1991 ', ' 18/6/1989 ', ' 3/12/1993 ', ' 26/8/1986 ', ' 7/9/1990 ', ' 11/7/1985 ', ' 14/3/1997 ', ' 19/9/1992 ', ' 22/1/1988 ', ' 4/7/1994 ', ' 9/6/1985 ', ' 27/2/1991 ', ' 13/11/1998 ', ' 5/5/1989 ', ' 30/8/1993 ', ' 19/3/1987 ', ' 21/2/1992 ', ' 10/10/1985 ', ' 17/1/1994 ', ' 8/4/1990 ', ' 21/9/1985 ', ' 12/8/1997 ', ' 23/12/1992 ', ' 17/11/1988 ', ' 6/6/1991 ', ' 3/3/1986 ', ' 2/2/1995 ', ' 11/6/1989 ', ' 14/7/1993 ']
+
+employee salary :
+[' 12000', ' 15000', ' 10000', ' 14000', ' 17000', ' 13000', ' 16000', ' 12000', ' 15000', ' 18000', ' 10000', ' 14000', ' 17000', ' 13000', ' 16000', ' 12000', ' 15000', ' 18000', ' 10000', ' 14000', ' 17000', ' 13000', ' 16000', ' 12000', ' 15000', ' 18000', ' 10000', ' 14000', ' 17000', ' 13000', ' 16000', ' 12000', ' 15000', ' 18000', ' 10000']
+
+employee name is :Fatma Omar and salary is  10000$
+
+Employee Information ,employee 2:name is Ahmed Ali  and phone is  0115030406 and birthday is  8/9/1984  and salary is  15000 $
+
+Employee Information ,employee 35:name is Yara Omar  and phone is  0420030440 and birthday is  14/7/1993  and salary is  10000 $
+
